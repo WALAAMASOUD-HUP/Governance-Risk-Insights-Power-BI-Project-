@@ -78,3 +78,7 @@ ________________________________________
 Walaa A. Hafeez
 Data Analyst | Data Governance | Data Quality | Risk & Compliance Analytics
 
+Online Interactive Report :
+
+https://app.powerbi.com/view?r=eyJrIjoiZTk3YmU3OTEtZjJjMy00NWY2LWFmYTMtODM0ZGRjZTA1ZTYyIiwidCI6ImUxOWY2ZjQyLTJhODQtNDhlZS04N2Y2LTUzNjQ5YzdhMzNhYSIsImMiOjl9
+
