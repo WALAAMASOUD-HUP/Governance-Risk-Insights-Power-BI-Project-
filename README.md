@@ -4,7 +4,7 @@ An interactive Power BI dashboard designed to analyze Data Governance, Complianc
 This project uncovers the hidden relationship between
 Data Quality – Compliance – Risk – Cost within a single analytical model that enables decision-makers to see what traditional reports fail to reveal.
 ![Image](https://github.com/user-attachments/assets/e47229df-b251-406c-8369-b0f15510ed7a)
-![Image](https://github.com/user-attachments/assets/6715a4fe-226d-42be-9480-5646e1431ae2)
+![Image](https://github.com/user-attachments/assets/b88b051d-1119-4790-b4f4-f1d2c991318d)
 ![Image](https://github.com/user-attachments/assets/535f66a8-c453-4e7f-92ba-3872aef59862)
 ![Image](https://github.com/user-attachments/assets/d936d933-5771-4ae3-866c-484aa84524f5)
 
